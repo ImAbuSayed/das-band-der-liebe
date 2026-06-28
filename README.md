@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-band-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Das Band der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-band-der-liebe/) |
+| **Get License** | [Commercial Licensing for Das Band der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-band-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1826a960e174f4bba663b21547a632d4e82a0112afd8791973fade13e30a4e36` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
