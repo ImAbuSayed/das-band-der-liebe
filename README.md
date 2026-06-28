@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rolle durch die leeren Straßen, Baby, nur zu dir
+> Dein Blick ist pures Gift, doch ich will mehr davon in mir
+> Wir lassen alles hinter uns, die City schläft jetzt ein
+> Das Band der Liebe wird in dieser Nacht der Anker sein
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
